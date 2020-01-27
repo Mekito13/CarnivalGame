@@ -1,0 +1,932 @@
+﻿Log file open, 01/26/20 12:48:29
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: RollerCoaster
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.298267
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-9631420
+LogInit: Engine Version: 4.23.1-9631420+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz, GPU: Intel(R) UHD Graphics 620
+LogInit: Compiled (64-bit): Oct 18 2019 02:07:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.01.26-20.48.30:296][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.01.26-20.48.30:296][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.01.26-20.48.30:296][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/emily/Documents/GitHub/CarnivalGame/RollerCoaster/Saved/Config/Windows/Engine.ini]
+[2020.01.26-20.48.30:297][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.01.26-20.48.30:297][  0]LogConfig: Setting CVar [[r.MobileHDR:1]]
+[2020.01.26-20.48.30:297][  0]LogConfig: Setting CVar [[r.Mobile.DisableVertexFog:1]]
+[2020.01.26-20.48.30:297][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxMobileCascades:2]]
+[2020.01.26-20.48.30:297][  0]LogConfig: Setting CVar [[r.MobileMSAA:1]]
+[2020.01.26-20.48.30:297][  0]LogConfig: Setting CVar [[r.Mobile.UseLegacyShadingModel:0]]
+[2020.01.26-20.48.30:297][  0]LogConfig: Setting CVar [[r.Mobile.UseHWsRGBEncoding:0]]
+[2020.01.26-20.48.30:297][  0]LogConfig: Setting CVar [[r.Mobile.AllowDitheredLODTransition:0]]
+[2020.01.26-20.48.30:297][  0]LogConfig: Setting CVar [[r.Mobile.AllowSoftwareOcclusion:0]]
+[2020.01.26-20.48.30:297][  0]LogConfig: Setting CVar [[r.DiscardUnusedQuality:0]]
+[2020.01.26-20.48.30:297][  0]LogConfig: Setting CVar [[r.AllowOcclusionQueries:1]]
+[2020.01.26-20.48.30:297][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForLights:0.030000]]
+[2020.01.26-20.48.30:297][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForDepthPrepass:0.030000]]
+[2020.01.26-20.48.30:297][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForCSMDepth:0.010000]]
+[2020.01.26-20.48.30:297][  0]LogConfig: Setting CVar [[r.PrecomputedVisibilityWarning:0]]
+[2020.01.26-20.48.30:297][  0]LogConfig: Setting CVar [[r.TextureStreaming:1]]
+[2020.01.26-20.48.30:297][  0]LogConfig: Setting CVar [[Compat.UseDXT5NormalMaps:0]]
+[2020.01.26-20.48.30:297][  0]LogConfig: Setting CVar [[r.VirtualTextures:0]]
+[2020.01.26-20.48.30:297][  0]LogConfig: Setting CVar [[r.VirtualTexturedLightmaps:0]]
+[2020.01.26-20.48.30:297][  0]LogConfig: Setting CVar [[r.VT.TileSize:128]]
+[2020.01.26-20.48.30:297][  0]LogConfig: Setting CVar [[r.VT.TileBorderSize:4]]
+[2020.01.26-20.48.30:297][  0]LogConfig: Setting CVar [[r.vt.FeedbackFactor:16]]
+[2020.01.26-20.48.30:297][  0]LogConfig: Setting CVar [[r.VT.EnableCompressZlib:1]]
+[2020.01.26-20.48.30:297][  0]LogConfig: Setting CVar [[r.VT.EnableCompressCrunch:0]]
+[2020.01.26-20.48.30:297][  0]LogConfig: Setting CVar [[r.ClearCoatNormal:0]]
+[2020.01.26-20.48.30:297][  0]LogConfig: Setting CVar [[r.ReflectionCaptureResolution:128]]
+[2020.01.26-20.48.30:297][  0]LogConfig: Setting CVar [[r.ReflectionEnvironmentLightmapMixBasedOnRoughness:1]]
+[2020.01.26-20.48.30:297][  0]LogConfig: Setting CVar [[r.ForwardShading:0]]
+[2020.01.26-20.48.30:297][  0]LogConfig: Setting CVar [[r.VertexFoggingForOpaque:1]]
+[2020.01.26-20.48.30:297][  0]LogConfig: Setting CVar [[r.AllowStaticLighting:1]]
+[2020.01.26-20.48.30:297][  0]LogConfig: Setting CVar [[r.NormalMapsForStaticLighting:0]]
+[2020.01.26-20.48.30:297][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:0]]
+[2020.01.26-20.48.30:297][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.EightBit:0]]
+[2020.01.26-20.48.30:297][  0]LogConfig: Setting CVar [[r.GenerateLandscapeGIData:0]]
+[2020.01.26-20.48.30:297][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.Compress:0]]
+[2020.01.26-20.48.30:297][  0]LogConfig: Setting CVar [[r.TessellationAdaptivePixelsPerTriangle:48.000000]]
+[2020.01.26-20.48.30:297][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:1]]
+[2020.01.26-20.48.30:297][  0]LogConfig: Setting CVar [[r.TranslucentSortPolicy:0]]
+[2020.01.26-20.48.30:297][  0]LogConfig: Setting CVar [[r.CustomDepth:1]]
+[2020.01.26-20.48.30:297][  0]LogConfig: Setting CVar [[r.CustomDepthTemporalAAJitter:1]]
+[2020.01.26-20.48.30:297][  0]LogConfig: Setting CVar [[r.PostProcessing.PropagateAlpha:0]]
+[2020.01.26-20.48.30:297][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:1]]
+[2020.01.26-20.48.30:297][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:1]]
+[2020.01.26-20.48.30:297][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:0]]
+[2020.01.26-20.48.30:297][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2020.01.26-20.48.30:297][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Method:0]]
+[2020.01.26-20.48.30:297][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:0]]
+[2020.01.26-20.48.30:297][  0]LogConfig: Setting CVar [[r.UsePreExposure:1]]
+[2020.01.26-20.48.30:297][  0]LogConfig: Setting CVar [[r.EyeAdaptation.EditorOnly:1]]
+[2020.01.26-20.48.30:297][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2020.01.26-20.48.30:298][  0]LogConfig: Setting CVar [[r.DefaultFeature.LensFlare:0]]
+[2020.01.26-20.48.30:298][  0]LogConfig: Setting CVar [[r.TemporalAA.Upsampling:0]]
+[2020.01.26-20.48.30:298][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:0]]
+[2020.01.26-20.48.30:298][  0]LogConfig: Setting CVar [[r.DefaultFeature.LightUnits:1]]
+[2020.01.26-20.48.30:298][  0]LogConfig: Setting CVar [[r.DefaultBackBufferPixelFormat:4]]
+[2020.01.26-20.48.30:298][  0]LogConfig: Setting CVar [[r.Shadow.UnbuiltPreviewInGame:1]]
+[2020.01.26-20.48.30:298][  0]LogConfig: Setting CVar [[r.StencilForLODDither:0]]
+[2020.01.26-20.48.30:298][  0]LogConfig: Setting CVar [[r.EarlyZPass:3]]
+[2020.01.26-20.48.30:298][  0]LogConfig: Setting CVar [[r.EarlyZPassOnlyMaterialMasking:0]]
+[2020.01.26-20.48.30:298][  0]LogConfig: Setting CVar [[r.DBuffer:1]]
+[2020.01.26-20.48.30:298][  0]LogConfig: Setting CVar [[r.ClearSceneMethod:1]]
+[2020.01.26-20.48.30:298][  0]LogConfig: Setting CVar [[r.BasePassOutputsVelocity:0]]
+[2020.01.26-20.48.30:298][  0]LogConfig: Setting CVar [[r.SelectiveBasePassOutputs:0]]
+[2020.01.26-20.48.30:298][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeX:1024]]
+[2020.01.26-20.48.30:298][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeY:1024]]
+[2020.01.26-20.48.30:298][  0]LogConfig: Setting CVar [[r.AllowGlobalClipPlane:0]]
+[2020.01.26-20.48.30:298][  0]LogConfig: Setting CVar [[r.GBufferFormat:1]]
+[2020.01.26-20.48.30:298][  0]LogConfig: Setting CVar [[r.MorphTarget.Mode:1]]
+[2020.01.26-20.48.30:298][  0]LogConfig: Setting CVar [[vr.InstancedStereo:1]]
+[2020.01.26-20.48.30:298][  0]LogConfig: Setting CVar [[vr.MultiView:0]]
+[2020.01.26-20.48.30:298][  0]LogConfig: Setting CVar [[vr.MobileMultiView:0]]
+[2020.01.26-20.48.30:298][  0]LogConfig: Setting CVar [[vr.MobileMultiView.Direct:0]]
+[2020.01.26-20.48.30:298][  0]LogConfig: Setting CVar [[vr.RoundRobinOcclusion:0]]
+[2020.01.26-20.48.30:298][  0]LogConfig: Setting CVar [[vr.ODSCapture:0]]
+[2020.01.26-20.48.30:298][  0]LogConfig: Setting CVar [[r.WireframeCullThreshold:5.000000]]
+[2020.01.26-20.48.30:298][  0]LogConfig: Setting CVar [[r.RayTracing:0]]
+[2020.01.26-20.48.30:298][  0]LogConfig: Setting CVar [[r.SupportStationarySkylight:1]]
+[2020.01.26-20.48.30:298][  0]LogConfig: Setting CVar [[r.SupportLowQualityLightmaps:1]]
+[2020.01.26-20.48.30:298][  0]LogConfig: Setting CVar [[r.SupportPointLightWholeSceneShadows:1]]
+[2020.01.26-20.48.30:298][  0]LogConfig: Setting CVar [[r.SupportAtmosphericFog:1]]
+[2020.01.26-20.48.30:298][  0]LogConfig: Setting CVar [[r.SkinCache.CompileShaders:0]]
+[2020.01.26-20.48.30:298][  0]LogConfig: Setting CVar [[r.Mobile.EnableStaticAndCSMShadowReceivers:1]]
+[2020.01.26-20.48.30:298][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableLightCSMShaderCulling:1]]
+[2020.01.26-20.48.30:298][  0]LogConfig: Setting CVar [[r.Mobile.AllowDistanceFieldShadows:1]]
+[2020.01.26-20.48.30:298][  0]LogConfig: Setting CVar [[r.Mobile.AllowMovableDirectionalLights:1]]
+[2020.01.26-20.48.30:298][  0]LogConfig: Setting CVar [[r.MobileNumDynamicPointLights:4]]
+[2020.01.26-20.48.30:298][  0]LogConfig: Setting CVar [[r.MobileDynamicPointLightsUseStaticBranch:1]]
+[2020.01.26-20.48.30:298][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableSpotlights:0]]
+[2020.01.26-20.48.30:298][  0]LogConfig: Setting CVar [[r.SkinCache.SceneMemoryLimitInMB:128.000000]]
+[2020.01.26-20.48.30:298][  0]LogConfig: Setting CVar [[r.GPUSkin.Limit2BoneInfluences:0]]
+[2020.01.26-20.48.30:298][  0]LogConfig: Setting CVar [[r.SupportDepthOnlyIndexBuffers:1]]
+[2020.01.26-20.48.30:298][  0]LogConfig: Setting CVar [[r.SupportReversedIndexBuffers:1]]
+[2020.01.26-20.48.30:298][  0]LogConfig: Setting CVar [[r.SupportMaterialLayers:0]]
+[2020.01.26-20.48.30:298][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/emily/Documents/GitHub/CarnivalGame/RollerCoaster/Saved/Config/Windows/Engine.ini]
+[2020.01.26-20.48.30:298][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/emily/Documents/GitHub/CarnivalGame/RollerCoaster/Saved/Config/Windows/Engine.ini]
+[2020.01.26-20.48.30:298][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.01.26-20.48.30:298][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.01.26-20.48.30:298][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.01.26-20.48.30:298][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.01.26-20.48.30:299][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.01.26-20.48.30:299][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.01.26-20.48.30:299][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.01.26-20.48.30:299][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.01.26-20.48.30:299][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.01.26-20.48.30:299][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.01.26-20.48.30:299][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.01.26-20.48.30:299][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.01.26-20.48.30:299][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.01.26-20.48.30:299][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/emily/Documents/GitHub/CarnivalGame/RollerCoaster/Saved/Config/Windows/Engine.ini]
+[2020.01.26-20.48.30:299][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.01.26-20.48.30:299][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.01.26-20.48.30:299][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.01.26-20.48.30:299][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.01.26-20.48.30:299][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.01.26-20.48.30:299][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.01.26-20.48.30:299][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.01.26-20.48.30:299][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.01.26-20.48.30:299][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.01.26-20.48.30:299][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.01.26-20.48.30:299][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.01.26-20.48.30:299][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.01.26-20.48.30:299][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.01.26-20.48.30:299][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/emily/Documents/GitHub/CarnivalGame/RollerCoaster/Saved/Config/Windows/Engine.ini]
+[2020.01.26-20.48.30:299][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/emily/Documents/GitHub/CarnivalGame/RollerCoaster/Saved/Config/Windows/Engine.ini]
+[2020.01.26-20.48.30:304][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/emily/Documents/GitHub/CarnivalGame/RollerCoaster/Saved/Config/Windows/Scalability.ini]
+[2020.01.26-20.48.30:304][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.01.26-20.48.30:304][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.01.26-20.48.30:304][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/emily/Documents/GitHub/CarnivalGame/RollerCoaster/Saved/Config/Windows/Scalability.ini]
+[2020.01.26-20.48.30:304][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2020.01.26-20.48.30:304][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/emily/Documents/GitHub/CarnivalGame/RollerCoaster/Saved/Config/Windows/Scalability.ini]
+[2020.01.26-20.48.30:304][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.01.26-20.48.30:304][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.01.26-20.48.30:304][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.01.26-20.48.30:304][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.01.26-20.48.30:304][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.01.26-20.48.30:304][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.01.26-20.48.30:304][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.01.26-20.48.30:304][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.01.26-20.48.30:304][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.01.26-20.48.30:304][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.01.26-20.48.30:304][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.01.26-20.48.30:304][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.01.26-20.48.30:304][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.01.26-20.48.30:304][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.01.26-20.48.30:304][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.01.26-20.48.30:304][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.01.26-20.48.30:304][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.01.26-20.48.30:304][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.01.26-20.48.30:304][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/emily/Documents/GitHub/CarnivalGame/RollerCoaster/Saved/Config/Windows/Scalability.ini]
+[2020.01.26-20.48.30:304][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2020.01.26-20.48.30:304][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.01.26-20.48.30:304][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.01.26-20.48.30:305][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2020.01.26-20.48.30:305][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.01.26-20.48.30:305][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2020.01.26-20.48.30:305][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.01.26-20.48.30:305][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2020.01.26-20.48.30:305][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2020.01.26-20.48.30:305][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.01.26-20.48.30:305][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2020.01.26-20.48.30:305][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2020.01.26-20.48.30:305][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.01.26-20.48.30:305][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.01.26-20.48.30:305][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.01.26-20.48.30:305][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.01.26-20.48.30:305][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.01.26-20.48.30:305][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.01.26-20.48.30:305][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.01.26-20.48.30:305][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.01.26-20.48.30:305][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.01.26-20.48.30:305][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.01.26-20.48.30:305][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.01.26-20.48.30:305][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.01.26-20.48.30:305][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.01.26-20.48.30:305][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.01.26-20.48.30:305][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.01.26-20.48.30:305][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.01.26-20.48.30:305][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.01.26-20.48.30:305][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.01.26-20.48.30:305][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/emily/Documents/GitHub/CarnivalGame/RollerCoaster/Saved/Config/Windows/Scalability.ini]
+[2020.01.26-20.48.30:305][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.01.26-20.48.30:305][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.01.26-20.48.30:305][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.01.26-20.48.30:305][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.01.26-20.48.30:305][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.01.26-20.48.30:305][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.01.26-20.48.30:305][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.01.26-20.48.30:305][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.01.26-20.48.30:305][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/emily/Documents/GitHub/CarnivalGame/RollerCoaster/Saved/Config/Windows/Scalability.ini]
+[2020.01.26-20.48.30:305][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2020.01.26-20.48.30:305][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.01.26-20.48.30:305][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2020.01.26-20.48.30:305][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2020.01.26-20.48.30:305][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.01.26-20.48.30:305][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2020.01.26-20.48.30:305][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.01.26-20.48.30:305][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.01.26-20.48.30:305][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.01.26-20.48.30:306][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.01.26-20.48.30:306][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.01.26-20.48.30:306][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.01.26-20.48.30:306][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.01.26-20.48.30:306][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/emily/Documents/GitHub/CarnivalGame/RollerCoaster/Saved/Config/Windows/Scalability.ini]
+[2020.01.26-20.48.30:306][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.01.26-20.48.30:306][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.01.26-20.48.30:306][  0]LogInit: Selected Device Profile: [Windows]
+[2020.01.26-20.48.30:306][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.01.26-20.48.30:326][  0]LogHAL: Display: Platform has ~ 8 GB [8511352832 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.01.26-20.48.30:326][  0]LogInit: Going up to parent DeviceProfile []
+[2020.01.26-20.48.30:326][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/emily/Documents/GitHub/CarnivalGame/RollerCoaster/Saved/Config/Windows/Scalability.ini]
+[2020.01.26-20.48.30:326][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.01.26-20.48.30:326][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.01.26-20.48.30:326][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/emily/Documents/GitHub/CarnivalGame/RollerCoaster/Saved/Config/Windows/Scalability.ini]
+[2020.01.26-20.48.30:326][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2020.01.26-20.48.30:326][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/emily/Documents/GitHub/CarnivalGame/RollerCoaster/Saved/Config/Windows/Scalability.ini]
+[2020.01.26-20.48.30:326][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.01.26-20.48.30:326][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.01.26-20.48.30:326][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.01.26-20.48.30:326][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.01.26-20.48.30:326][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.01.26-20.48.30:326][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.01.26-20.48.30:326][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.01.26-20.48.30:326][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.01.26-20.48.30:326][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.01.26-20.48.30:326][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.01.26-20.48.30:326][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.01.26-20.48.30:326][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.01.26-20.48.30:326][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.01.26-20.48.30:326][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.01.26-20.48.30:326][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.01.26-20.48.30:326][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.01.26-20.48.30:326][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.01.26-20.48.30:326][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.01.26-20.48.30:326][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/emily/Documents/GitHub/CarnivalGame/RollerCoaster/Saved/Config/Windows/Scalability.ini]
+[2020.01.26-20.48.30:326][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2020.01.26-20.48.30:326][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.01.26-20.48.30:326][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.01.26-20.48.30:326][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2020.01.26-20.48.30:326][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.01.26-20.48.30:326][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2020.01.26-20.48.30:326][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.01.26-20.48.30:326][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2020.01.26-20.48.30:326][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2020.01.26-20.48.30:326][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.01.26-20.48.30:326][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2020.01.26-20.48.30:327][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2020.01.26-20.48.30:327][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.01.26-20.48.30:327][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.01.26-20.48.30:327][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.01.26-20.48.30:327][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.01.26-20.48.30:327][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.01.26-20.48.30:327][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.01.26-20.48.30:327][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.01.26-20.48.30:327][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.01.26-20.48.30:327][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.01.26-20.48.30:327][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.01.26-20.48.30:327][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.01.26-20.48.30:327][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.01.26-20.48.30:327][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.01.26-20.48.30:327][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.01.26-20.48.30:327][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.01.26-20.48.30:327][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.01.26-20.48.30:327][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.01.26-20.48.30:327][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.01.26-20.48.30:327][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/emily/Documents/GitHub/CarnivalGame/RollerCoaster/Saved/Config/Windows/Scalability.ini]
+[2020.01.26-20.48.30:327][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.01.26-20.48.30:327][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.01.26-20.48.30:327][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.01.26-20.48.30:327][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.01.26-20.48.30:327][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.01.26-20.48.30:327][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.01.26-20.48.30:327][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.01.26-20.48.30:327][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.01.26-20.48.30:327][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/emily/Documents/GitHub/CarnivalGame/RollerCoaster/Saved/Config/Windows/Scalability.ini]
+[2020.01.26-20.48.30:327][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2020.01.26-20.48.30:327][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.01.26-20.48.30:327][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2020.01.26-20.48.30:327][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2020.01.26-20.48.30:327][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.01.26-20.48.30:327][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2020.01.26-20.48.30:327][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.01.26-20.48.30:327][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.01.26-20.48.30:327][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.01.26-20.48.30:327][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.01.26-20.48.30:327][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.01.26-20.48.30:327][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.01.26-20.48.30:327][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.01.26-20.48.30:327][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/emily/Documents/GitHub/CarnivalGame/RollerCoaster/Saved/Config/Windows/Scalability.ini]
+[2020.01.26-20.48.30:327][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.01.26-20.48.30:327][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.01.26-20.48.30:327][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.01.26-20.48.30:339][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.01.26-20.48.30:339][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.01.26-20.48.30:339][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/emily/Documents/GitHub/CarnivalGame/RollerCoaster/Saved/Config/Windows/Engine.ini]
+[2020.01.26-20.48.30:340][  0]LogInit: Computer: DESKTOP-M5MOGRD
+[2020.01.26-20.48.30:340][  0]LogInit: User: emily
+[2020.01.26-20.48.30:340][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.01.26-20.48.30:340][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.01.26-20.48.30:341][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2020.01.26-20.48.30:341][  0]LogMemory: Platform Memory Stats for Windows
+[2020.01.26-20.48.30:341][  0]LogMemory: Process Physical Memory: 101.02 MB used, 101.02 MB peak
+[2020.01.26-20.48.30:341][  0]LogMemory: Process Virtual Memory: 100.61 MB used, 100.61 MB peak
+[2020.01.26-20.48.30:341][  0]LogMemory: Physical Memory: 4731.00 MB used,  3386.06 MB free, 8117.06 MB total
+[2020.01.26-20.48.30:341][  0]LogMemory: Virtual Memory: 4668.44 MB used,  134213056.00 MB free, 134217728.00 MB total
+[2020.01.26-20.48.30:347][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.01.26-20.48.30:468][  0]LogInit: Using OS detected language (en-US).
+[2020.01.26-20.48.30:468][  0]LogInit: Using OS detected locale (en-US).
+[2020.01.26-20.48.30:470][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.01.26-20.48.31:083][  0]LogInit: Setting process to per monitor DPI aware
+[2020.01.26-20.48.31:237][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.01.26-20.48.31:237][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.01.26-20.48.35:738][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.01.26-20.48.35:738][  0]LogD3D11RHI: D3D11 adapters:
+[2020.01.26-20.48.35:829][  0]LogD3D11RHI:    0. 'Intel(R) UHD Graphics 620' (Feature Level 11_0)
+[2020.01.26-20.48.35:829][  0]LogD3D11RHI:       128/0/4058 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2020.01.26-20.48.35:833][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.01.26-20.48.35:833][  0]LogD3D11RHI:       0/0/4058 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.01.26-20.48.35:833][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.01.26-20.48.35:843][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.01.26-20.48.35:843][  0]LogD3D11RHI:     GPU DeviceId: 0x5917 (for the marketing name, search the web for "GPU Device Id")
+[2020.01.26-20.48.35:843][  0]LogWindows: EnumDisplayDevices:
+[2020.01.26-20.48.35:843][  0]LogWindows:    0. 'Intel(R) UHD Graphics 620' (P:1 D:1)
+[2020.01.26-20.48.35:844][  0]LogWindows:    1. 'Intel(R) UHD Graphics 620' (P:0 D:0)
+[2020.01.26-20.48.35:844][  0]LogWindows:    2. 'Intel(R) UHD Graphics 620' (P:0 D:0)
+[2020.01.26-20.48.35:845][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2020.01.26-20.48.35:845][  0]LogD3D11RHI:     Adapter Name: Intel(R) UHD Graphics 620
+[2020.01.26-20.48.35:845][  0]LogD3D11RHI:   Driver Version: 25.20.100.6471 (internal:25.20.100.6471, unified:25.20.100.6471)
+[2020.01.26-20.48.35:845][  0]LogD3D11RHI:      Driver Date: 12-28-2018
+[2020.01.26-20.48.35:845][  0]LogRHI: Texture pool is 1510 MB (70% of 2157 MB)
+[2020.01.26-20.48.36:043][  0]LogD3D11RHI: [IntelMetricsDiscovery] Started
+[2020.01.26-20.48.36:043][  0]LogD3D11RHI: Async texture creation enabled
+[2020.01.26-20.48.36:058][  0]LogD3D11RHI: GPU Timing Frequency: 12.000048 (Debug: 2 0)
+[2020.01.26-20.48.37:024][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.01.26-20.48.37:039][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.01.26-20.48.37:055][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.01.26-20.48.37:076][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.01.26-20.48.37:101][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.01.26-20.48.37:116][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.01.26-20.48.37:133][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.01.26-20.48.37:151][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.01.26-20.48.37:159][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.01.26-20.48.37:231][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.01.26-20.48.37:231][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.01.26-20.48.37:231][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.01.26-20.48.37:231][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.01.26-20.48.37:231][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.01.26-20.48.37:231][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.01.26-20.48.37:231][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.01.26-20.48.37:231][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.01.26-20.48.37:231][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.01.26-20.48.37:231][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.01.26-20.48.37:231][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.01.26-20.48.37:231][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.01.26-20.48.37:231][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.01.26-20.48.37:231][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.01.26-20.48.37:231][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.01.26-20.48.37:231][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.01.26-20.48.37:231][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.01.26-20.48.37:231][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.01.26-20.48.37:235][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.01.26-20.48.37:284][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.01.26-20.48.37:284][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.01.26-20.48.37:307][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.01.26-20.48.37:308][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.01.26-20.48.37:319][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.01.26-20.48.37:333][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.01.26-20.48.37:346][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.01.26-20.48.37:380][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.01.26-20.48.37:446][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.01.26-20.48.37:447][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.01.26-20.48.37:447][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.01.26-20.48.37:474][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.01.26-20.48.37:611][  0]LogShaderCompilers: Guid format shader working directory is -28 characters bigger than the processId version (../../../../../../Users/emily/Documents/GitHub/CarnivalGame/RollerCoaster/Intermediate/Shaders/WorkingDirectory/19104/).
+[2020.01.26-20.48.37:611][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/emily/AppData/Local/Temp/UnrealShaderWorkingDir/8D31DE294B615929D0EE55B185DBE4F5/'.
+[2020.01.26-20.48.37:616][  0]LogXGEController: Cleaning working directory: C:/Users/emily/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.01.26-20.48.37:617][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.01.26-20.48.37:617][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.01.26-20.48.37:617][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.01.26-20.48.42:014][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.01.26-20.48.42:161][  0]LogDerivedDataCache: Loaded boot cache 0.15s 90MB C:/Users/emily/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2020.01.26-20.48.42:161][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/emily/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2020.01.26-20.48.42:161][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/emily/Documents/GitHub/CarnivalGame/RollerCoaster/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.01.26-20.48.42:161][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.01.26-20.48.42:161][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/emily/Documents/GitHub/CarnivalGame/RollerCoaster/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.01.26-20.48.42:161][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.01.26-20.48.42:176][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.01.26-20.48.42:176][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.01.26-20.48.42:176][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.01.26-20.48.42:178][  0]LogDerivedDataCache: Using Local data cache path C:/Users/emily/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.01.26-20.48.42:178][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.01.26-20.48.42:178][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.01.26-20.48.42:233][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.01.26-20.48.42:242][  0]LogSlate: Using FreeType 2.6.0
+[2020.01.26-20.48.42:276][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.01.26-20.48.42:645][  0]LogAssetRegistry: FAssetRegistry took 0.0037 seconds to start up
+[2020.01.26-20.48.43:216][  0]LogInit: Selected Device Profile: [Windows]
+[2020.01.26-20.48.43:537][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.01.26-20.48.43:537][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.01.26-20.48.43:537][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.01.26-20.48.43:537][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.01.26-20.48.43:537][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.01.26-20.48.43:557][  0]LogNetVersion: RollerCoaster 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 1695572160)
+[2020.01.26-20.48.44:696][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.108436 seconds
+[2020.01.26-20.48.44:707][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2020.01.26-20.48.44:707][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2020.01.26-20.48.44:707][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.01.26-20.48.49:270][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.01.26-20.48.49:274][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.01.26-20.48.49:416][  0]SourceControl: Source control is disabled
+[2020.01.26-20.48.49:416][  0]SourceControl: Source control is disabled
+[2020.01.26-20.48.49:429][  0]SourceControl: Source control is disabled
+[2020.01.26-20.48.49:435][  0]SourceControl: Source control is disabled
+[2020.01.26-20.48.49:730][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.01.26-20.48.50:003][  0]LogOcInput: OculusInput pre-init called
+[2020.01.26-20.48.50:020][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.01.26-20.48.50:020][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.01.26-20.48.50:219][  0]LogEngine: Initializing Engine...
+[2020.01.26-20.48.50:221][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.01.26-20.48.50:225][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.002 s
+[2020.01.26-20.48.50:662][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.01.26-20.48.50:705][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.01.26-20.48.51:002][  0]LogInit: XAudio2 using 'Headphones (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.26-20.48.51:650][  0]LogInit: FAudioDevice initialized.
+[2020.01.26-20.48.51:650][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.01.26-20.48.51:745][  0]LogDerivedDataCache: Saved boot cache 0.09s 90MB C:/Users/emily/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2020.01.26-20.48.51:760][  0]LogInit: Texture streaming: Enabled
+[2020.01.26-20.48.51:804][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.01.26-20.48.51:804][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=AbnormalShutdown, SessionId={48BB3824-47DB-6834-88D0-CAA89E4B0728}
+[2020.01.26-20.48.51:804][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.01.26-20.48.51:806][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.01.26-20.48.51:948][  0]LogInit: Transaction tracking system initialized
+[2020.01.26-20.48.52:043][  0]BlueprintLog: New page: Editor Load
+[2020.01.26-20.48.52:290][  0]LocalizationService: Localization service is disabled
+[2020.01.26-20.48.53:103][  0]LogFileCache: Scanning file cache for directory 'C:/Users/emily/Documents/GitHub/CarnivalGame/RollerCoaster/Content/' took 0.01s
+[2020.01.26-20.48.53:103][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.01.26-20.48.53:104][  0]LogCook: Display: Mobile HDR setting 1
+[2020.01.26-20.48.53:709][  0]SourceControl: Source control is disabled
+[2020.01.26-20.48.53:851][  0]LogSlate: Took 0.014154 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.01.26-20.49.23:437][  0]LogSlate: Window 'Restore Packages' being destroyed
+[2020.01.26-20.49.23:438][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.01.26-20.49.23:445][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.01.26-20.49.23:482][  0]Cmd: MAP LOAD FILE="../../../../../../Users/emily/Documents/GitHub/CarnivalGame/RollerCoaster/Content/VirtualRealityBP/Maps/MotionControllerMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.01.26-20.49.23:483][  0]LightingResults: New page: Lighting Build
+[2020.01.26-20.49.23:496][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.01.26-20.49.23:497][  0]MapCheck: New page: Map Check
+[2020.01.26-20.49.23:497][  0]LightingResults: New page: Lighting Build
+[2020.01.26-20.49.23:539][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2020.01.26-20.49.24:872][  0]LogAIModule: Creating AISystem for world MotionControllerMap
+[2020.01.26-20.49.24:897][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.01.26-20.49.25:026][  0]LogUObjectHash: Compacting FUObjectHashTables data took   4.37ms
+[2020.01.26-20.49.25:028][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.01.26-20.49.25:028][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.398ms to complete.
+[2020.01.26-20.49.25:028][  0]LogFileHelpers: Loading map 'MotionControllerMap' took 1.547
+[2020.01.26-20.49.25:206][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.26-20.49.25:220][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.26-20.49.25:235][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.26-20.49.25:249][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.26-20.49.25:275][  0]LogCollectionManager: Loaded 0 collections in 0.003950 seconds
+[2020.01.26-20.49.25:289][  0]LogFileCache: Scanning file cache for directory 'C:/Users/emily/Documents/GitHub/CarnivalGame/RollerCoaster/Saved/Collections/' took 0.00s
+[2020.01.26-20.49.25:290][  0]LogFileCache: Scanning file cache for directory 'C:/Users/emily/Documents/GitHub/CarnivalGame/RollerCoaster/Content/Developers/emily/Collections/' took 0.00s
+[2020.01.26-20.49.25:290][  0]LogFileCache: Scanning file cache for directory 'C:/Users/emily/Documents/GitHub/CarnivalGame/RollerCoaster/Content/Collections/' took 0.00s
+[2020.01.26-20.49.25:290][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000006 seconds
+[2020.01.26-20.49.25:308][  0]LogContentBrowser: Native class hierarchy populated in 0.0176 seconds. Added 2863 classes and 680 folders.
+[2020.01.26-20.49.25:326][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.01.26-20.49.25:885][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2020.01.26-20.49.25:897][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2020.01.26-20.49.25:941][  0]LogSlate: Took 0.013819 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.01.26-20.49.25:964][  0]LogSlate: Took 0.012440 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.01.26-20.49.26:123][  0]LogRenderer: Reallocating scene render targets to support 576x568 Format 26 NumSamples 1 (Frame:1).
+[2020.01.26-20.49.26:865][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2020.01.26-20.49.26:865][  0]LogLoad: (Engine Initialization) Total time: 63.83 seconds
+[2020.01.26-20.49.26:865][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.01.26-20.49.26:963][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.01.26-20.49.30:032][ 24]LogAssetRegistry: Asset discovery search completed in 47.3877 seconds
+[2020.01.26-20.49.30:041][ 24]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000011 seconds (found 0 objects)
+[2020.01.26-20.49.30:042][ 24]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000146 seconds (updated 0 objects)
+[2020.01.26-20.49.38:837][398]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Trim)
+[2020.01.26-20.49.41:789][507]Cmd: DELETE
+[2020.01.26-20.49.41:789][507]Cmd: ACTOR DELETE
+[2020.01.26-20.49.41:824][507]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.01.26-20.49.41:869][507]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2020.01.26-20.49.41:869][507]LogEditorActor: Deleted 1 Actors (0.079 secs)
+[2020.01.26-20.50.00:206][233]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (Time:)
+[2020.01.26-20.50.04:017][355]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.26-20.50.18:015][867]LogSlate: Took 0.013629 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.01.26-20.50.18:916][885]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap
+[2020.01.26-20.50.19:648][885]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0013 seconds. Added 121 classes and 0 folders.
+[2020.01.26-20.50.21:285][885]LogSlate: Took 0.009000 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.01.26-20.50.21:469][886]LogSlate: Took 0.017804 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.01.26-20.50.26:894][ 31]LogEditorSessionSummary: EditorSessionSummary sent report. Type=AbnormalShutdown, SessionId={48BB3824-47DB-6834-88D0-CAA89E4B0728}
+[2020.01.26-20.51.35:160][969]BlueprintLog: New page: Compile MotionControllerMap
+[2020.01.26-20.51.35:571][969]LogUObjectHash: Compacting FUObjectHashTables data took   8.72ms
+[2020.01.26-20.51.36:792][999]LogUObjectHash: Compacting FUObjectHashTables data took   6.03ms
+[2020.01.26-20.51.37:324][999]LogSavePackage: Moving '../../../../../../Users/emily/Documents/GitHub/CarnivalGame/RollerCoaster/Saved/MotionControllerMap6A6A38804D09DB60E215B6B5B9176F88.tmp' to '../../../../../../Users/emily/Documents/GitHub/CarnivalGame/RollerCoaster/Content/VirtualRealityBP/Maps/MotionControllerMap.umap'
+[2020.01.26-20.51.37:415][999]LogFileHelpers: Saving map 'MotionControllerMap' took 0.686
+[2020.01.26-20.51.41:104][111]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2020.01.26-20.51.47:925][262]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.26-20.52.08:427][494]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/emily/Desktop/Texture Pictures/stuff i made/ghoat_sign.jpg)
+[2020.01.26-20.52.08:460][494]LogTexture: Display: Building textures: ghoat_sign (AutoDXT, 1000X1000)
+[2020.01.26-20.52.08:568][494]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/emily/Desktop/Texture Pictures/stuff i made/shadow_sign.jpg)
+[2020.01.26-20.52.08:597][494]LogTexture: Display: Building textures: shadow_sign (AutoDXT, 1000X1000)
+[2020.01.26-20.52.14:589][673]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/RollerCoaster/ghoat_sign.ghoat_sign
+[2020.01.26-20.52.14:617][673]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2020.01.26-20.53.16:113][429]LogTexture: Display: Building textures: ghoat_sign (AutoDXT, 1000X1000)
+[2020.01.26-20.53.39:580][109]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RollerCoaster/ghoat_sign" FILE="../../../../../../Users/emily/Documents/GitHub/CarnivalGame/RollerCoaster/Content/RollerCoaster/ghoat_sign.uasset" SILENT=true
+[2020.01.26-20.53.39:725][109]LogSavePackage: Moving '../../../../../../Users/emily/Documents/GitHub/CarnivalGame/RollerCoaster/Saved/ghoat_sign2A94D902424B05E45E8E659C95E29B3C.tmp' to '../../../../../../Users/emily/Documents/GitHub/CarnivalGame/RollerCoaster/Content/RollerCoaster/ghoat_sign.uasset'
+[2020.01.26-20.53.59:820][737]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.26-20.54.10:563][ 34]LogSlate: Window 'Color Picker' being destroyed
+[2020.01.26-20.54.17:641][228]LogSlate: Window 'Color Picker' being destroyed
+[2020.01.26-20.54.28:278][533]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RollerCoaster/ghoat_sign" FILE="../../../../../../Users/emily/Documents/GitHub/CarnivalGame/RollerCoaster/Content/RollerCoaster/ghoat_sign.uasset" SILENT=true
+[2020.01.26-20.54.28:371][533]LogSavePackage: Moving '../../../../../../Users/emily/Documents/GitHub/CarnivalGame/RollerCoaster/Saved/ghoat_sign3CDE7A2E441081CC400A9EAC70FFBF4E.tmp' to '../../../../../../Users/emily/Documents/GitHub/CarnivalGame/RollerCoaster/Content/RollerCoaster/ghoat_sign.uasset'
+[2020.01.26-20.54.33:513][653]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.26-20.55.01:750][366]LogTexture: Display: Building textures: ghoat_sign (BC5, 1000X1000)
+[2020.01.26-20.55.04:128][435]LogTexture: Display: Building textures: ghoat_sign (AutoDXT, 1000X1000)
+[2020.01.26-20.55.06:018][491]LogTexture: Display: Building textures: ghoat_sign (G8, 1000X1000)
+[2020.01.26-20.55.07:997][549]LogTexture: Display: Building textures: ghoat_sign (G8, 1000X1000)
+[2020.01.26-20.55.09:879][606]LogTexture: Display: Building textures: ghoat_sign (BGRA8, 1000X1000)
+[2020.01.26-20.55.15:185][761]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RollerCoaster/ghoat_sign" FILE="../../../../../../Users/emily/Documents/GitHub/CarnivalGame/RollerCoaster/Content/RollerCoaster/ghoat_sign.uasset" SILENT=true
+[2020.01.26-20.55.15:255][761]LogSavePackage: Moving '../../../../../../Users/emily/Documents/GitHub/CarnivalGame/RollerCoaster/Saved/ghoat_sign6FBA1EE8463A470582DD7C9E13D07548.tmp' to '../../../../../../Users/emily/Documents/GitHub/CarnivalGame/RollerCoaster/Content/RollerCoaster/ghoat_sign.uasset'
+[2020.01.26-20.55.15:851][777]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.26-20.55.37:086][367]LogSlate: Window 'ghoat_sign' being destroyed
+[2020.01.26-20.55.37:104][367]LogSlate: Window 'ghoat_sign' being destroyed
+[2020.01.26-20.55.37:163][367]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.01.26-20.55.39:238][429]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.26-20.55.41:046][507]LogMaterial: Display: Missing cached shader map for material ghoat_sign_Mat, compiling. 
+[2020.01.26-20.55.41:196][507]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 22
+[2020.01.26-20.55.41:196][507]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 16
+[2020.01.26-20.55.41:196][507]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2020.01.26-20.55.41:197][507]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2020.01.26-20.56.13:681][572]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.26-20.58.33:000][128]LogAssetEditorManager: Opening Asset editor for Material /Game/RollerCoaster/ghoat_sign_Mat.ghoat_sign_Mat
+[2020.01.26-20.58.33:021][128]LogMaterial: Display: Missing cached shader map for material ghoat_sign_Mat, compiling. 
+[2020.01.26-20.58.33:606][128]LogMaterial: Display: Missing cached shader map for material ghoat_sign_Mat, compiling. 
+[2020.01.26-20.58.33:638][128]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 21
+[2020.01.26-20.58.33:638][128]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 20
+[2020.01.26-20.58.33:638][128]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 19
+[2020.01.26-20.58.33:638][128]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 18
+[2020.01.26-20.58.33:643][128]LogMaterial: Display: Missing cached shader map for material ghoat_sign_Mat, compiling. 
+[2020.01.26-20.58.33:690][128]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.01.26-20.58.34:797][136]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 25
+[2020.01.26-20.58.34:840][137]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 24
+[2020.01.26-20.58.34:894][138]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 23
+[2020.01.26-20.58.34:894][138]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 22
+[2020.01.26-20.58.35:986][158]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 21
+[2020.01.26-20.58.36:043][159]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 20
+[2020.01.26-20.58.36:043][159]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 19
+[2020.01.26-20.58.36:269][164]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 18
+[2020.01.26-20.58.36:901][179]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 17
+[2020.01.26-20.58.37:100][183]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 16
+[2020.01.26-20.58.37:244][186]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2020.01.26-20.58.37:294][187]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 14
+[2020.01.26-20.58.37:986][201]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 13
+[2020.01.26-20.58.39:355][227]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 12
+[2020.01.26-20.58.40:029][240]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2020.01.26-20.58.40:300][245]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 10
+[2020.01.26-20.58.40:897][256]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 9
+[2020.01.26-20.58.41:745][272]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.01.26-20.58.42:289][281]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.01.26-20.58.43:004][293]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2020.01.26-20.58.43:554][304]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2020.01.26-20.58.43:901][310]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2020.01.26-20.58.44:623][323]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2020.01.26-20.58.45:540][341]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.01.26-20.58.45:541][341]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.01.26-20.58.45:621][342]MaterialEditorStats: Base pass shader: 175 instructions
+[2020.01.26-20.58.45:621][342]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 249 instructions
+[2020.01.26-20.58.45:621][342]MaterialEditorStats: Base pass vertex shader: 101 instructions
+[2020.01.26-20.58.45:621][342]MaterialEditorStats: Texture samplers: 4/16
+[2020.01.26-20.58.45:621][342]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.01.26-20.58.45:621][342]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.01.26-21.00.36:383][172]LogMaterial: Display: Missing cached shader map for material ghoat_sign_Mat, compiling. 
+[2020.01.26-21.00.36:450][173]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 21
+[2020.01.26-21.00.36:450][173]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 20
+[2020.01.26-21.00.36:450][173]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 19
+[2020.01.26-21.00.36:450][173]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 18
+[2020.01.26-21.00.38:159][209]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 17
+[2020.01.26-21.00.38:212][210]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 16
+[2020.01.26-21.00.38:349][213]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 15
+[2020.01.26-21.00.38:401][214]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 14
+[2020.01.26-21.00.39:058][227]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 13
+[2020.01.26-21.00.39:456][235]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 12
+[2020.01.26-21.00.39:501][236]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2020.01.26-21.00.39:503][236]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2020.01.26-21.00.40:025][246]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.01.26-21.00.41:259][270]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2020.01.26-21.00.42:074][285]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2020.01.26-21.00.42:225][288]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.01.26-21.00.42:775][299]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2020.01.26-21.00.43:869][320]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2020.01.26-21.00.44:063][324]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2020.01.26-21.00.45:218][346]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2020.01.26-21.00.45:894][359]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.01.26-21.00.47:655][395]MaterialEditorStats: Base pass shader: 175 instructions
+[2020.01.26-21.00.47:655][395]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 249 instructions
+[2020.01.26-21.00.47:655][395]MaterialEditorStats: Base pass vertex shader: 101 instructions
+[2020.01.26-21.00.47:655][395]MaterialEditorStats: Texture samplers: 4/16
+[2020.01.26-21.00.47:655][395]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.01.26-21.00.47:655][395]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.01.26-21.01.07:035][869]LogMaterial: Display: Missing cached shader map for material ghoat_sign_Mat, compiling. 
+[2020.01.26-21.01.07:081][869]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 21
+[2020.01.26-21.01.07:081][869]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 20
+[2020.01.26-21.01.07:081][869]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 19
+[2020.01.26-21.01.07:081][869]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 18
+[2020.01.26-21.01.07:088][869]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.26-21.01.08:223][900]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 17
+[2020.01.26-21.01.08:262][901]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 16
+[2020.01.26-21.01.08:605][910]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 15
+[2020.01.26-21.01.08:716][913]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 14
+[2020.01.26-21.01.09:153][925]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 13
+[2020.01.26-21.01.09:189][926]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 12
+[2020.01.26-21.01.09:225][927]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2020.01.26-21.01.09:488][935]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2020.01.26-21.01.09:845][945]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 9
+[2020.01.26-21.01.10:585][964]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2020.01.26-21.01.10:905][972]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2020.01.26-21.01.10:983][974]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2020.01.26-21.01.11:426][985]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2020.01.26-21.01.11:789][992]LogMaterial: Display: Missing cached shader map for material ghoat_sign_Mat, compiling. 
+[2020.01.26-21.01.11:791][992]LogMaterial: Warning: /Engine/Transient.ghoat_sign_Mat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.01.26-21.01.11:791][992]LogMaterial: Display: 	(Node TextureSample) TextureSample> Sampler type is Data, should be Linear Color for /Game/RollerCoaster/ghoat_sign.ghoat_sign
+[2020.01.26-21.01.11:818][992]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.01.26-21.01.11:835][992]LogMaterial: Display: Missing cached shader map for material ghoat_sign_Mat, compiling. 
+[2020.01.26-21.01.11:837][992]LogMaterial: Warning: /Engine/Transient.ghoat_sign_Mat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.01.26-21.01.11:837][992]LogMaterial: Display: 	(Node TextureSample) TextureSample> Sampler type is Data, should be Linear Color for /Game/RollerCoaster/ghoat_sign.ghoat_sign
+[2020.01.26-21.01.11:847][992]MaterialEditorStats: Error: [SM5] (Node TextureSample) TextureSample> Sampler type is Data, should be Linear Color for /Game/RollerCoaster/ghoat_sign.ghoat_sign
+[2020.01.26-21.01.15:345][ 66]LogMaterial: Display: Missing cached shader map for material ghoat_sign_Mat, compiling. 
+[2020.01.26-21.01.15:346][ 66]LogMaterial: Warning: /Engine/Transient.ghoat_sign_Mat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.01.26-21.01.15:347][ 66]LogMaterial: Display: 	(Node TextureSample) TextureSample> Sampler type is Data, should be Linear Color for /Game/RollerCoaster/ghoat_sign.ghoat_sign
+[2020.01.26-21.01.15:361][ 66]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.26-21.01.17:004][123]LogMaterial: Display: Missing cached shader map for material ghoat_sign_Mat, compiling. 
+[2020.01.26-21.01.17:005][123]LogMaterial: Warning: /Engine/Transient.ghoat_sign_Mat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.01.26-21.01.17:005][123]LogMaterial: Display: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/RollerCoaster/ghoat_sign.ghoat_sign
+[2020.01.26-21.01.17:021][123]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.01.26-21.01.17:033][123]LogMaterial: Display: Missing cached shader map for material ghoat_sign_Mat, compiling. 
+[2020.01.26-21.01.17:034][123]LogMaterial: Warning: /Engine/Transient.ghoat_sign_Mat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.01.26-21.01.17:034][123]LogMaterial: Display: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/RollerCoaster/ghoat_sign.ghoat_sign
+[2020.01.26-21.01.17:042][123]MaterialEditorStats: Error: [SM5] (Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/RollerCoaster/ghoat_sign.ghoat_sign
+[2020.01.26-21.01.20:713][215]LogMaterial: Display: Missing cached shader map for material ghoat_sign_Mat, compiling. 
+[2020.01.26-21.01.20:715][215]LogMaterial: Warning: /Engine/Transient.ghoat_sign_Mat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.01.26-21.01.20:715][215]LogMaterial: Display: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/RollerCoaster/ghoat_sign.ghoat_sign
+[2020.01.26-21.01.20:731][215]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.26-21.01.23:103][298]LogMaterial: Display: Missing cached shader map for material ghoat_sign_Mat, compiling. 
+[2020.01.26-21.01.23:105][298]LogMaterial: Warning: /Engine/Transient.ghoat_sign_Mat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.01.26-21.01.23:105][298]LogMaterial: Display: 	(Node TextureSample) TextureSample> Sampler type is Normal, should be Linear Color for /Game/RollerCoaster/ghoat_sign.ghoat_sign
+[2020.01.26-21.01.23:121][298]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.01.26-21.01.23:129][298]LogMaterial: Display: Missing cached shader map for material ghoat_sign_Mat, compiling. 
+[2020.01.26-21.01.23:130][298]LogMaterial: Warning: /Engine/Transient.ghoat_sign_Mat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.01.26-21.01.23:130][298]LogMaterial: Display: 	(Node TextureSample) TextureSample> Sampler type is Normal, should be Linear Color for /Game/RollerCoaster/ghoat_sign.ghoat_sign
+[2020.01.26-21.01.23:138][298]MaterialEditorStats: Error: [SM5] (Node TextureSample) TextureSample> Sampler type is Normal, should be Linear Color for /Game/RollerCoaster/ghoat_sign.ghoat_sign
+[2020.01.26-21.01.25:140][348]LogEditorTransaction: Undo Edit Sampler Type
+[2020.01.26-21.01.25:164][348]LogMaterial: Display: Missing cached shader map for material ghoat_sign_Mat, compiling. 
+[2020.01.26-21.01.25:166][348]LogMaterial: Warning: /Engine/Transient.ghoat_sign_Mat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.01.26-21.01.25:167][348]LogMaterial: Display: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/RollerCoaster/ghoat_sign.ghoat_sign
+[2020.01.26-21.01.25:188][348]LogMaterial: Display: Missing cached shader map for material ghoat_sign_Mat, compiling. 
+[2020.01.26-21.01.25:189][348]LogMaterial: Warning: /Engine/Transient.ghoat_sign_Mat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.01.26-21.01.25:189][348]LogMaterial: Display: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/RollerCoaster/ghoat_sign.ghoat_sign
+[2020.01.26-21.01.25:204][348]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.01.26-21.01.26:156][378]MaterialEditorStats: Error: [SM5] (Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/RollerCoaster/ghoat_sign.ghoat_sign
+[2020.01.26-21.01.36:366][636]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.26-21.01.40:977][639]LogSlate: Window 'Message' being destroyed
+[2020.01.26-21.01.40:989][639]LogSlate: Window 'ghoat_sign_Mat' being destroyed
+[2020.01.26-21.01.40:993][639]LogSlate: Window 'ghoat_sign_Mat' being destroyed
+[2020.01.26-21.01.41:104][639]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2020.01.26-21.02.10:880][917]LogUObjectHash: Compacting FUObjectHashTables data took  10.00ms
+[2020.01.26-21.02.11:539][917]LogSavePackage: Moving '../../../../../../Users/emily/Documents/GitHub/CarnivalGame/RollerCoaster/Saved/MotionControllerMap_Auto1435C0C254A9A7F8FB0540E99795F9192.tmp' to '../../../../../../Users/emily/Documents/GitHub/CarnivalGame/RollerCoaster/Saved/Autosaves/Game/VirtualRealityBP/Maps/MotionControllerMap_Auto1.umap'
+[2020.01.26-21.02.11:546][917]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/MotionControllerMap' took 0.825
+[2020.01.26-21.02.11:547][917]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.825
+[2020.01.26-21.02.11:551][917]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/RollerCoaster/shadow_sign] ([1] browsable assets)...
+[2020.01.26-21.02.11:559][917]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/RollerCoaster/shadow_sign.shadow_sign]
+[2020.01.26-21.02.11:559][917]OBJ SavePackage: Finished generating thumbnails for package [/Game/RollerCoaster/shadow_sign]
+[2020.01.26-21.02.11:587][917]LogSavePackage: Moving '../../../../../../Users/emily/Documents/GitHub/CarnivalGame/RollerCoaster/Saved/shadow_sign_Auto168ECB8664D081C09A77E54895A270581.tmp' to '../../../../../../Users/emily/Documents/GitHub/CarnivalGame/RollerCoaster/Saved/Autosaves/Game/RollerCoaster/shadow_sign_Auto1.uasset'
+[2020.01.26-21.02.11:590][917]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/RollerCoaster/ghoat_sign_Mat] ([1] browsable assets)...
+[2020.01.26-21.02.11:623][917]OBJ SavePackage:     Rendered thumbnail for [Material /Game/RollerCoaster/ghoat_sign_Mat.ghoat_sign_Mat]
+[2020.01.26-21.02.11:623][917]OBJ SavePackage: Finished generating thumbnails for package [/Game/RollerCoaster/ghoat_sign_Mat]
+[2020.01.26-21.02.11:651][917]LogSavePackage: Moving '../../../../../../Users/emily/Documents/GitHub/CarnivalGame/RollerCoaster/Saved/ghoat_sign_Mat_Auto14C4F49D74576FBC2C8544A9B1E55C3E8.tmp' to '../../../../../../Users/emily/Documents/GitHub/CarnivalGame/RollerCoaster/Saved/Autosaves/Game/RollerCoaster/ghoat_sign_Mat_Auto1.uasset'
+[2020.01.26-21.02.11:653][917]LogFileHelpers: Auto-saving content packages took 0.104
+[2020.01.26-21.06.24:256][679]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.26-21.06.34:387][800]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.26-21.06.34:399][800]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/emily/Desktop/Texture Pictures/stuff i made/ghoat_sign_T.png)
+[2020.01.26-21.06.34:423][800]LogTexture: Display: Building textures: ghoat_sign_T (AutoDXT, 1000X1000)
+[2020.01.26-21.06.34:764][800]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/emily/Desktop/Texture Pictures/stuff i made/shadow_sign_t.png)
+[2020.01.26-21.06.34:807][800]LogTexture: Display: Building textures: shadow_sign_t (AutoDXT, 1000X1000)
+[2020.01.26-21.06.40:215][984]LogMaterial: Display: Missing cached shader map for material ghoat_sign_T_Mat, compiling. 
+[2020.01.26-21.06.40:271][984]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 22
+[2020.01.26-21.06.40:271][984]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 16
+[2020.01.26-21.06.40:271][984]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2020.01.26-21.06.40:271][984]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2020.01.26-21.06.40:271][984]LogMaterial: Display: Missing cached shader map for material shadow_sign_t_Mat, compiling. 
+[2020.01.26-21.06.46:838][142]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 22
+[2020.01.26-21.06.46:885][143]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 16
+[2020.01.26-21.06.49:784][206]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2020.01.26-21.06.53:618][287]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2020.01.26-21.06.54:435][304]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2020.01.26-21.06.54:886][314]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.01.26-21.06.56:831][356]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.01.26-21.06.57:480][370]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.01.26-21.07.25:632][961]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.26-21.07.30:530][101]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/RollerCoaster/shadow_sign_t.shadow_sign_t
+[2020.01.26-21.07.35:284][220]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RollerCoaster/shadow_sign_t" FILE="../../../../../../Users/emily/Documents/GitHub/CarnivalGame/RollerCoaster/Content/RollerCoaster/shadow_sign_t.uasset" SILENT=true
+[2020.01.26-21.07.35:454][220]LogSavePackage: Moving '../../../../../../Users/emily/Documents/GitHub/CarnivalGame/RollerCoaster/Saved/shadow_sign_t0A7F033644ED1F9E746299891B099962.tmp' to '../../../../../../Users/emily/Documents/GitHub/CarnivalGame/RollerCoaster/Content/RollerCoaster/shadow_sign_t.uasset'
+[2020.01.26-21.07.38:321][305]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.26-21.07.38:388][307]LogSlate: Window 'shadow_sign_t' being destroyed
+[2020.01.26-21.07.38:436][307]LogSlate: Window 'shadow_sign_t' being destroyed
+[2020.01.26-21.07.41:597][393]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.26-21.07.41:775][398]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/RollerCoaster/ghoat_sign_T.ghoat_sign_T
+[2020.01.26-21.07.44:038][450]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RollerCoaster/ghoat_sign_T" FILE="../../../../../../Users/emily/Documents/GitHub/CarnivalGame/RollerCoaster/Content/RollerCoaster/ghoat_sign_T.uasset" SILENT=true
+[2020.01.26-21.07.44:165][450]LogSavePackage: Moving '../../../../../../Users/emily/Documents/GitHub/CarnivalGame/RollerCoaster/Saved/ghoat_sign_T30670E284969C14CE193C38E1FE3B556.tmp' to '../../../../../../Users/emily/Documents/GitHub/CarnivalGame/RollerCoaster/Content/RollerCoaster/ghoat_sign_T.uasset'
+[2020.01.26-21.07.45:993][501]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.26-21.07.49:214][596]LogTexture: Display: Building textures: ghoat_sign_T (AutoDXT, 1000X1000)
+[2020.01.26-21.07.52:090][668]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RollerCoaster/ghoat_sign_T" FILE="../../../../../../Users/emily/Documents/GitHub/CarnivalGame/RollerCoaster/Content/RollerCoaster/ghoat_sign_T.uasset" SILENT=true
+[2020.01.26-21.07.52:169][668]LogSavePackage: Moving '../../../../../../Users/emily/Documents/GitHub/CarnivalGame/RollerCoaster/Saved/ghoat_sign_TB4D910824A7BD6A1671ECF882606AF0B.tmp' to '../../../../../../Users/emily/Documents/GitHub/CarnivalGame/RollerCoaster/Content/RollerCoaster/ghoat_sign_T.uasset'
+[2020.01.26-21.07.53:749][715]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.26-21.07.53:840][718]LogSlate: Window 'ghoat_sign_T' being destroyed
+[2020.01.26-21.07.53:868][718]LogSlate: Window 'ghoat_sign_T' being destroyed
+[2020.01.26-21.07.56:224][778]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.26-21.07.56:380][782]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/RollerCoaster/shadow_sign_t.shadow_sign_t
+[2020.01.26-21.08.04:251][999]LogTexture: Display: Building textures: shadow_sign_t (AutoDXT, 1000X1000)
+[2020.01.26-21.08.06:011][ 30]LogSlate: Window 'Color Picker' being destroyed
+[2020.01.26-21.08.07:124][ 62]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RollerCoaster/shadow_sign_t" FILE="../../../../../../Users/emily/Documents/GitHub/CarnivalGame/RollerCoaster/Content/RollerCoaster/shadow_sign_t.uasset" SILENT=true
+[2020.01.26-21.08.07:223][ 62]LogSavePackage: Moving '../../../../../../Users/emily/Documents/GitHub/CarnivalGame/RollerCoaster/Saved/shadow_sign_tAB6DF6EE499079CEF2A63D806B9E9828.tmp' to '../../../../../../Users/emily/Documents/GitHub/CarnivalGame/RollerCoaster/Content/RollerCoaster/shadow_sign_t.uasset'
+[2020.01.26-21.08.13:942][261]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.26-21.08.14:033][264]LogSlate: Window 'shadow_sign_t' being destroyed
+[2020.01.26-21.08.14:064][264]LogSlate: Window 'shadow_sign_t' being destroyed
+[2020.01.26-21.08.15:519][302]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.26-21.08.25:471][806]LogMaterial: Display: Missing cached shader map for material DefaultSpriteMaterial, compiling. 
+[2020.01.26-21.08.25:681][807]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 20
+[2020.01.26-21.08.25:681][807]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 14
+[2020.01.26-21.08.25:681][807]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2020.01.26-21.08.25:681][807]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2020.01.26-21.08.48:279][496]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2020.01.26-21.08.49:297][528]Cmd: DELETE
+[2020.01.26-21.08.49:297][528]Cmd: ACTOR DELETE
+[2020.01.26-21.08.49:317][528]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.01.26-21.08.49:461][528]LogUObjectHash: Compacting FUObjectHashTables data took   9.47ms
+[2020.01.26-21.08.49:462][528]LogEditorActor: Deleted 1 Actors (0.164 secs)
+[2020.01.26-21.08.53:516][651]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.26-21.09.10:057][286]LogEditorViewport: Clicking on Actor (context menu): PaperSpriteActor (ghoat_sign_T_Sprite)
+[2020.01.26-21.09.10:120][286]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.26-21.09.12:374][393]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.26-21.09.14:250][463]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (ghoat_sign_T_Sprite)
+[2020.01.26-21.09.23:442][802]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (shadow_sign_t_Sprite)
+[2020.01.26-21.09.46:196][639]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (ghoat_sign_T_Sprite)
+[2020.01.26-21.09.46:348][641]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.01.26-21.10.17:698][750]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.01.26-21.10.20:125][830]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (ghoat_sign_T_Sprite)
+[2020.01.26-21.10.39:166][501]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.01.26-21.10.44:255][665]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.01.26-21.10.44:339][665]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.26-21.20.09:219][318]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.01.26-21.20.16:434][489]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.26-21.20.17:159][505]LogSavePackage: Moving '../../../../../../Users/emily/Documents/GitHub/CarnivalGame/RollerCoaster/Saved/ghoat_sign_T_MatEA04BCE24B511F39D3935A8CFE28CA8B.tmp' to '../../../../../../Users/emily/Documents/GitHub/CarnivalGame/RollerCoaster/Content/RollerCoaster/ghoat_sign_T_Mat.uasset'
+[2020.01.26-21.20.18:113][528]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.26-21.20.18:507][537]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RollerCoaster/ghoat_sign_Mat" FILE="../../../../../../Users/emily/Documents/GitHub/CarnivalGame/RollerCoaster/Content/RollerCoaster/ghoat_sign_Mat.uasset" SILENT=true
+[2020.01.26-21.20.18:538][537]LogSavePackage: Moving '../../../../../../Users/emily/Documents/GitHub/CarnivalGame/RollerCoaster/Saved/ghoat_sign_MatB3D3F52B41BF9B4CD1C7788F8FD18764.tmp' to '../../../../../../Users/emily/Documents/GitHub/CarnivalGame/RollerCoaster/Content/RollerCoaster/ghoat_sign_Mat.uasset'
+[2020.01.26-21.20.20:442][582]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.26-21.20.21:020][595]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RollerCoaster/shadow_sign" FILE="../../../../../../Users/emily/Documents/GitHub/CarnivalGame/RollerCoaster/Content/RollerCoaster/shadow_sign.uasset" SILENT=true
+[2020.01.26-21.20.21:177][595]LogSavePackage: Moving '../../../../../../Users/emily/Documents/GitHub/CarnivalGame/RollerCoaster/Saved/shadow_signD3148DD947FF5ED25F81CEB5BB79BA1A.tmp' to '../../../../../../Users/emily/Documents/GitHub/CarnivalGame/RollerCoaster/Content/RollerCoaster/shadow_sign.uasset'
+[2020.01.26-21.20.21:274][597]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.26-21.20.22:084][618]LogSavePackage: Moving '../../../../../../Users/emily/Documents/GitHub/CarnivalGame/RollerCoaster/Saved/ghoat_sign_T_Sprite4CE0EFB44D2CB11C1570CFA95AE10E19.tmp' to '../../../../../../Users/emily/Documents/GitHub/CarnivalGame/RollerCoaster/Content/RollerCoaster/ghoat_sign_T_Sprite.uasset'
+[2020.01.26-21.20.22:379][625]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.26-21.20.22:910][636]LogSavePackage: Moving '../../../../../../Users/emily/Documents/GitHub/CarnivalGame/RollerCoaster/Saved/shadow_sign_t_Sprite2678C2544CC72AEF384A129E554B0D53.tmp' to '../../../../../../Users/emily/Documents/GitHub/CarnivalGame/RollerCoaster/Content/RollerCoaster/shadow_sign_t_Sprite.uasset'
+[2020.01.26-21.20.29:635][860]LogEditorViewport: Clicking on Actor (LMB): BP_PickupSphere_C (BP_PickupSphere5)
+[2020.01.26-21.20.31:922][915]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.26-21.20.32:173][921]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/VirtualReality/Materials/MI_SmallCubes.MI_SmallCubes
+[2020.01.26-21.20.32:547][921]LogRenderer: Reallocating scene render targets to support 852x732 Format 26 NumSamples 1 (Frame:1).
+[2020.01.26-21.20.35:715][923]LogD3D11RHI: Error: Result failed 
+ at D:/Build/++UE4/Sync/Engine/Source/Runtime/Windows/D3D11RHI/Private/D3D11Query.cpp:348 
+ with error DXGI_ERROR_DEVICE_REMOVED DXGI_ERROR_DEVICE_HUNG
+[2020.01.26-21.20.35:715][923]LogD3D11RHI: [Aftermath] GDynamicRHI=00000209C33A80C0, GDX11NVAfterMathEnabled=0, Result=0xFFFFFFFF, bDeviceActive=0
+[2020.01.26-21.20.35:715][923]LogWindows: Windows GetLastError: The operation completed successfully. (0)
